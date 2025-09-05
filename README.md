@@ -5,14 +5,14 @@ Instructions:
 
 1. Clone Repository to your local machine
 2. Open Root folder in visual studio code
-
 (backend setup)
-4. If terminal in VS code is not open start one
-5. make sure you are in the root folder
-6. type python -m venv venv
-7. once venv is created type .\venv\Scripts\Activate
-8. you will know that virtual environment is working once terminal has a green (venv) on the start of the new line
-9. Next type pip install -r requirements.txt -> This will install all python packages required for this process
+3. If terminal in VS code is not open start one
+4. make sure you are in the root folder
+5. type python -m venv venv
+6. once venv is created type .\venv\Scripts\Activate
+7. you will know that virtual environment is working once terminal has a green (venv) on the start of the new line
+8. Next type pip install -r requirements.txt -> This will install all python packages required for this process
+
 
 (frontend setup)
 1. make sure you have Node.js -> you can find it here: https://nodejs.org/en/download and download latest LTS version
