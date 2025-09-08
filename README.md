@@ -1,6 +1,9 @@
 # Langgraph_Chatbot
 This is a langgraph chatbot. This uses langgrap, FastAPI, React, and Tailwind
 
+PREREQUISITE:
+1. This codebase uses GROQ as its llm model provider (mainly because it is free). You will need to procure your API key from GROQ website and create a .env file on project root folder with key name: GROQ_API_KEY="your api key"
+
 Instructions:
 
 1. Clone Repository to your local machine
